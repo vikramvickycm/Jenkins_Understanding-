@@ -4,6 +4,7 @@ public class Jenkins1 {
 		for(int i=0;i<=n;i++)
 		{
 			System.out.println("Hello world : " +i);
+			System.out.println();
 		}
 	}
 }
