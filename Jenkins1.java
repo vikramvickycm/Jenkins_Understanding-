@@ -3,7 +3,7 @@ public class Jenkins1 {
 		int n=10;
 		for(int i=0;i<=n;i++)
 		{
-			System.out.println("Hello world srikanth: " +i);
+			System.out.println("Hello world: " +i);
 			
 		}
 	}
